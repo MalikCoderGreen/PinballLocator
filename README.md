@@ -1,6 +1,6 @@
 I created this app using nextjs 14.0.3
 
-This app uses the api provided by the developers from [Pinball Map](https://pinnballmap.com)  
+This app uses the api provided by the developers from [Pinball Map](https://pinballmap.com)  
 You can enter in your latitude and longitutde get locate the closest arcade relative to your position
 
 Alternatively, you can click the "Near Me" button to have your geolocation used
